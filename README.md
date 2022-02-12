@@ -18,3 +18,11 @@ We will end up with code that plots unemployment rates in multiple American stat
 ![](images/unemploy.png)
 
 Finally, a homework problem will help cement your understanding, and make you even more dangerous!# PythonWorkshop
+
+Questions Forum:
+
+https://discourse.univ.ai/t/questions-for-the-basic-python-workshop/9230
+
+Homework Forum:
+
+https://discourse.univ.ai/t/homework-discussions-for-the-basic-python-workshop/9231/7
